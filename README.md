@@ -48,3 +48,10 @@ Este projeto é um **sistema simples de gerenciamento de contatos** desenvolvido
 3.Compile e execute:
   gcc agenda.c -o agenda/
 ./agenda
+
+
+👨‍💻 Autor
+Felipe Silva Lima
+📧 felipesilvalima200@gmail.com
+🔗 www.linkedin.com/in/
+felipesilvalima2030
